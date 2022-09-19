@@ -1,1 +1,1 @@
-# bot_panel
+# bot-panel

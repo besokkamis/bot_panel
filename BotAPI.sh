@@ -15,8 +15,8 @@ readonly -A _SHELLBOT_=(
 [language]='shell'
 [shell]=${SHELL}
 [shell_version]=${BASH_VERSION}
-[author]='KennXV'
-[email]='zkendev@gmail.com'
+[author]='Aixxy7'
+[email]='aixxy.id'
 [wiki]=''
 [github]=''
 [packages]='curl 7.0, getopt 2.0, jq 1.5'
@@ -5853,4 +5853,3 @@ readonly -f MessageError 		\
 			CheckArgType 		\
 			CreateLog			\
 			FlagConv
-
